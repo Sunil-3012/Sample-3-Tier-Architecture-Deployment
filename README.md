@@ -1,1 +1,1 @@
-# Sample-3-Tier-Architecture-Deployment
+# Sample-3-Tier-Architecture-Deployment-on-AWS
