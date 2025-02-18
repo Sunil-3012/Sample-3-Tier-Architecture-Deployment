@@ -1,4 +1,4 @@
-# Sample-3-Tier-Architecture-Deployment-on-AWS
+# Sample-3-Tier-Application-Architecture-Deployment-on-AWS
 
 ## Overview
 This project demonstrates the deployment of a highly scalable and secure 3-Tier Architecture on AWS, utilizing services such as VPC, EC2, RDS, ALB, ASG, S3, and Route 53. The architecture is designed for high availability, security, and scalability, using Auto Scaling Groups (ASG), load balancing, and secure networking.
